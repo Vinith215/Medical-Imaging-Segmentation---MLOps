@@ -1,5 +1,3 @@
-# Medical-Imaging-Segmentation---MLOps
-
 # 🏥 Medical Segmentation MLOps Pipeline
 
 An end-to-end, production-grade MLOps framework for 3D medical image segmentation using **MONAI**, **Swin-UNETR**, and **AWS**.
